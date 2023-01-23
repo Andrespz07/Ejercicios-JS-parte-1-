@@ -14,8 +14,3 @@ button.onclick = function esPrimo() {
     }
 
 }  
-
-
-
-// if(numero % i === 0) return false;
-// return numero > 1;
